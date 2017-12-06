@@ -1,1 +1,10 @@
 body {background-color: #a9a9a9}
+a{color: white}
+
+.sidebar{
+  background-color: black;
+    width: 200px;
+    height: 1000px;
+    }
+
+}
